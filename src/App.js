@@ -15,13 +15,17 @@ const App = () => {
   };
 
   return (
-    <div className="container mx-auto p-4">
-      <h1 className="text-2xl font-bold mb-4">Search Suggestions</h1>
-      <SearchBar searchTerm={searchTerm} handleSearchChange={handleSearchChange} />
-      <SuggestionList suggestions={filteredSuggestions} />
+    <div className="bg-gray-100 min-h-screen">
+      <div className="container mx-auto p-4">
+        <h1 className="text-3xl font-bold text-gray-800 mb-4">Search Suggestions</h1>
+        <SearchBar searchTerm={searchTerm} handleSearchChange={handleSearchChange} />
+        <SuggestionList suggestions={filteredSuggestions} />
+      </div>
     </div>
   );
 };
 
 export default App;
+
+
 
