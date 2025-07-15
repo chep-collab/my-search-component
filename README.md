@@ -1,6 +1,3 @@
-Thanks for sharing, Mercy! I explored your `my-search-component` repo—it’s a focused **Vue 3 + Vite** project that demonstrates reusable component design. It’s a great candidate for showing off your UI/UX polish and frontend architecture skills. Let’s give it a clean, professional README to match.
-
----
 
 ### 📝 Refined `README.md` for `my-search-component`
 
