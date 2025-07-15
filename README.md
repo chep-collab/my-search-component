@@ -71,14 +71,6 @@ npm run build
 
 ## 📸 Screenshots
 
-_Add screenshots of the search input, filtered results, and mobile layout here._
-
-```markdown
-![Search UI](./public/screenshots/search-ui.png)
-![Mobile View](./public/screenshots/mobile.png)
-```
-
----
 
 ## 📌 Roadmap
 
